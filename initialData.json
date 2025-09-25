@@ -1,0 +1,93 @@
+
+[
+  {
+    "date": "31/01/24",
+    "assets": {
+      "Mutual Funds": 50000,
+      "Stocks": 82000,
+      "Retirement Fund": 205000,
+      "Savings Account": 100000,
+      "Real Estate": 5000000
+    },
+    "liabilities": {
+      "Home Loan": 2995000,
+      "Car Loan": 195000,
+      "Credit Card Debt": 25000
+    }
+  },
+  {
+    "date": "29/02/24",
+    "assets": {
+      "Mutual Funds": 53000,
+      "Stocks": 85000,
+      "Retirement Fund": 210000,
+      "Savings Account": 102000,
+      "Real Estate": 5000000
+    },
+    "liabilities": {
+      "Home Loan": 2990000,
+      "Car Loan": 190000,
+      "Credit Card Debt": 18000
+    }
+  },
+  {
+    "date": "31/03/24",
+    "assets": {
+      "Mutual Funds": 55000,
+      "Stocks": 79000,
+      "Retirement Fund": 215000,
+      "Savings Account": 105000,
+      "Real Estate": 5000000
+    },
+    "liabilities": {
+      "Home Loan": 2985000,
+      "Car Loan": 185000,
+      "Credit Card Debt": 22000
+    }
+  },
+  {
+    "date": "30/04/24",
+    "assets": {
+      "Mutual Funds": 60000,
+      "Stocks": 91000,
+      "Retirement Fund": 220000,
+      "Savings Account": 106000,
+      "Real Estate": 5000000
+    },
+    "liabilities": {
+      "Home Loan": 2980000,
+      "Car Loan": 180000,
+      "Credit Card Debt": 15000
+    }
+  },
+  {
+    "date": "31/05/24",
+    "assets": {
+      "Mutual Funds": 62000,
+      "Stocks": 95000,
+      "Retirement Fund": 225000,
+      "Savings Account": 110000,
+      "Real Estate": 5000000
+    },
+    "liabilities": {
+      "Home Loan": 2975000,
+      "Car Loan": 175000,
+      "Credit Card Debt": 10000
+    }
+  },
+  {
+    "date": "30/06/24",
+    "assets": {
+      "Mutual Funds": 65000,
+      "Stocks": 93000,
+      "Retirement Fund": 230000,
+      "Savings Account": 115000,
+      "Real Estate": 5000000
+    },
+    "liabilities": {
+      "Home Loan": 2970000,
+      "Car Loan": 170000,
+      "Credit Card Debt": 12000
+    }
+  }
+]
