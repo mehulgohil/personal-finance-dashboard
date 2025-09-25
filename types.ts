@@ -14,6 +14,7 @@ export interface ProcessedMonthlyData extends MonthlyData {
   diffInNet: number;
 }
 
+// FIX: Define and export the Insight type for AI-generated financial analysis.
 export interface Insight {
   title: string;
   explanation: string;

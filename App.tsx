@@ -4,7 +4,6 @@ import Header from './components/Header';
 import DataTable from './components/DataTable';
 import SummaryCards from './components/SummaryCards';
 import NetWorthChart from './components/NetWorthChart';
-import InsightGenerator from './components/InsightGenerator';
 import AllocationChart from './components/AllocationChart';
 import AssetCompositionChart from './components/AssetCompositionChart';
 
@@ -203,14 +202,9 @@ const App: React.FC = () => {
             <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">Asset Composition Trend</h2>
             <AssetCompositionChart data={assetCompositionData} assetCategories={assetCategories} />
           </div>
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            <div className="lg:col-span-2 bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-lg">
-              <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">Net Worth Over Time</h2>
-              <NetWorthChart data={processedData} />
-            </div>
-            <div className="bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-lg">
-              <InsightGenerator data={processedData} />
-            </div>
+          <div className="bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-lg">
+            <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">Net Worth Over Time</h2>
+            <NetWorthChart data={processedData} />
           </div>
           <div className="bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-lg">
             <div className="flex justify-between items-center mb-4">
